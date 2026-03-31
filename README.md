@@ -33,7 +33,7 @@
 📫 Contact Me
 
 📧 Email: [shanmukhasri00@gmail.com](mailto:Shanmukhasri00@gmail.com)
- 🔗 LinkedIn: www.linkedin.com/in/shanmuga-sree-vyshnav_blank
+ 🔗 LinkedIn: www.linkedin.com/in/shanmuga-sree-vyshnav
 
 ---
 

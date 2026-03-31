@@ -1,8 +1,8 @@
 👋 Hi, I'm Shanmuga sri vyshnav
 
-💻 Aspiring Software Developer (Web developer)
-📍 India
-🎯 Focused on building real-world projects and improving problem-solving skills
+💻 Aspiring Software Developer (Web developer),
+📍 India,
+🎯 Focused on building real-world projects and improving problem-solving skills.
 
 ---
 

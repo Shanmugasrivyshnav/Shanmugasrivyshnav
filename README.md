@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Hi, I'm Shanmuga sri vyshnav
 
-<!--
-**Shanmugasrivyshnav/Shanmugasrivyshnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer (Web developer)
+📍 India
+🎯 Focused on building real-world projects and improving problem-solving skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+ 🌱 Currently learning: Web Development / Python
+ 🔭 Working on: Personal & academic projects
+ 💡 Interested in: Full Stack Development / AI / Open Source
+
+---
+
+🛠️ Tech Stack
+
+💻 Languages: JavaScript, Python 
+🌐 Frontend: HTML, CSS, REACT
+🖥️ Backend: NODE JS
+⚙️ Tools: Git, GitHub
+
+---
+
+📌 Featured Projects
+
+🔗 Project Name – 
+🔗 Project Name – 
+
+---
+
+📊 GitHub Stats
+
+[Stats](https://github-readme-stats.vercel.app/api?username=Shanmugasrivyshnav\&show_icons=true)
+
+---
+
+📫 Contact Me
+
+📧 Email: [shanmukhasri00@gmail.com](mailto:Shanmukhasri00@gmail.com)
+ 🔗 LinkedIn: www.linkedin.com/in/shanmuga-sree-vyshnav
+
+---
+
+⭐ *Always learning and building!*

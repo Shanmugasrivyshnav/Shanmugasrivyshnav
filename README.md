@@ -23,16 +23,10 @@
 
 ---
 
-📌 Featured Projects
-
-🔗 Project Name – 
-🔗 Project Name – 
-
----
 
 📊 GitHub Stats
 
-[Stats](https://github-readme-stats.vercel.app/api?username=Shanmugasrivyshnav\&show_icons=true)
+[GitHub Streak](https://github-readme-stats.vercel.app/api?username=Shanmugasrivyshnav\&show_icons=true)
 
 ---
 

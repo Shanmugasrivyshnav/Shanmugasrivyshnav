@@ -10,13 +10,13 @@
 
  🌱 Currently learning: Web Development / Python
  🔭 Working on: Personal & academic projects
- 💡 Interested in: Full Stack Development / AI / Open Source
+ 💡 Interested in: Full Stack Development
 
 ---
 
 🛠️ Tech Stack
 
-💻 Languages: JavaScript, Python 
+💻 Languages: JavaScript, Python , Sql 
 🌐 Frontend: HTML, CSS, REACT
 🖥️ Backend: NODE JS
 ⚙️ Tools: Git, GitHub

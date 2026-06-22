@@ -18,16 +18,16 @@ I am a BCom (Bachelor of Commerce in Computer Applications ) student passionate 
 > Add your repositories below
 
 ### Project 1
-- Repository: https://github.com/Shanmugasrivyshnav/PROJECT_NAME
-- Description: Brief project description.
+- Repository: [https://github.com/Shanmugasrivyshnav/Shanmuga-sri-vyshnav-Portfolio](https://github.com/Shanmugasrivyshnav/Shanmuga-sri-vyshnav-Portfolio)
+- Description: A responsive personal portfolio to showcase projects, skills, and contact details.
 
 ### Project 2
-- Repository: https://github.com/Shanmugasrivyshnav/PROJECT_NAME
-- Description: Brief project description.
+- Repository: [https://github.com/Shanmugasrivyshnav/basic_login-app_React](https://github.com/Shanmugasrivyshnav/basic_login-app_React)
+- Description: A basic of Login page with react UI with username and password.
 
 ### Project 3
-- Repository: https://github.com/Shanmugasrivyshnav/PROJECT_NAME
-- Description: Brief project description.
+- Repository: [https://github.com/Shanmugasrivyshnav/cryptocurrency-ui-React-](https://github.com/Shanmugasrivyshnav/cryptocurrency-ui-React-)
+- Description: A Frontend cryptocurrency to showcase  Prices and Crypto details
 
 ## 🛠️ Skills
 - Python
@@ -42,12 +42,11 @@ I am a BCom (Bachelor of Commerce in Computer Applications ) student passionate 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanmugasrivyshnav&show_icons=true)
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning
-- Generative AI
-- Cloud Technologies
+- Advanced DSA
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Shanmugasrivyshnav
+- Mail ID: Shanmukhasri00@gmail.com
 
 ---
 ⭐ Feel free to explore my repositories and connect with me!

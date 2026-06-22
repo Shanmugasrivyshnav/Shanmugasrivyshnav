@@ -1,4 +1,4 @@
-# Hi, I'm Shanmuga Srivyshnav 👋
+# Hi, I'm Shanmuga sri vyshnav 👋
 
 ## 🚀 About Me
 I am a BCom (Bachelor of Commerce in Computer Applications ) student passionate about technology and software development. I would be passionate about working with programming languages such as HTML, CSS, JavaScript, React JS, Node JS, Python, SQL, and Git version Control, and know's web development technologies. I have a passion for building projects, solving coding problems, and continuously learning new technologies to improve my active skills. My goal is to start my career as a software developer in SDE roles and contribute to building efficient and innovative applications. I'm open to job, internship, and entry-level opportunities where I can apply my technical knowledge and grow as a software professional.

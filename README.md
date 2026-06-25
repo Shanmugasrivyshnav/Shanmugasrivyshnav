@@ -30,11 +30,13 @@ I am a BCom (Bachelor of Commerce in Computer Applications ) student passionate 
 - Description: A Frontend cryptocurrency to showcase  Prices and Crypto details
 
 ## 🛠️ Skills
-- Python
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT JS
+- NODE JS
 - SQL
-- Data Analytics
-- Machine Learning
-- Power BI
+- PYTHON
 - Git & GitHub
 
 ## 📈 GitHub Stats

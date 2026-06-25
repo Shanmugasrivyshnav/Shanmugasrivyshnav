@@ -15,7 +15,7 @@ I am a BCom (Bachelor of Commerce in Computer Applications ) student passionate 
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" />
   </a>
 </p>
-> Add your repositories below
+> Repositories :
 
 ### Project 1
 - Repository: [https://github.com/Shanmugasrivyshnav/Shanmuga-sri-vyshnav-Portfolio](https://github.com/Shanmugasrivyshnav/Shanmuga-sri-vyshnav-Portfolio)

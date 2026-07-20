@@ -9,10 +9,10 @@ I am a BCom (Bachelor of Commerce in Computer Applications ) student passionate 
 ## 📂 Repositories
 <p align="center">
   <a href="https://github.com/Shanmugasrivyshnav">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <!-- <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /> -->
   </a>
   <a href="https://shanmuga-sri-vyshnav-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" />
+    <!-- <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" /> -->
   </a>
 </p>
 > Repositories :

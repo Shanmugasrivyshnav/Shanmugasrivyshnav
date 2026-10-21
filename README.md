@@ -89,13 +89,12 @@ My projects include interactive dashboards, UPI Message tracking, expense manage
 **React.js · JavaScript · REST APIs · Node.js**
 
 </div>
-
-A component-based dashboard for managing user records through CRUD operations.
-
+<p align="center">
+A component-based dashboard for managing user records through CRUD operations.<br/>
 - Implemented Create, Read, Update, and Delete functionality.
 - Integrated REST APIs to manage user data.
 - Built reusable React components and interactive interfaces.
-
+</p>
 <div align="center">
 
 <!-- Replace the placeholder URL with your actual repository and demo links. -->

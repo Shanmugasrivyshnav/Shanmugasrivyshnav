@@ -205,9 +205,13 @@ A mobile application designed to record income and expenses and help users monit
 ---
 
 <!-- ===================== CERTIFICATIONS ===================== -->
+---
+<div align="center">
 
-## 📜 Certifications & Learning
+  ## 📜 Certifications & Learning
 
+</div>
+<ul>
 - JavaScript Essentials
 - React JS – Getting Started
 - Node JS
@@ -219,6 +223,7 @@ A mobile application designed to record income and expenses and help users monit
 - Developer Foundations
 - Introduction to Databases
 
+</ul>
 ---
 
 <!-- ===================== CONNECT ===================== -->

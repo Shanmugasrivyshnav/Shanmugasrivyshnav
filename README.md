@@ -119,13 +119,12 @@ A component-based dashboard for managing user records through CRUD operations.
 **React.js · JavaScript**
 
 </div>
-
-A client-side expense tracking application that calculates and categorizes expenses in real time.
-
+<p align="center">
+A client-side expense tracking application that calculates and categorizes expenses in real time.<br/>
 - Used React state management to update expense information.
 - Implemented expense calculations using JavaScript.
 - Designed a straightforward interface for tracking spending.
-
+</p>
 <div align="center">
 
 <a href="YOUR_EXPENSE_MANAGER_REPOSITORY_URL">
@@ -143,13 +142,12 @@ A client-side expense tracking application that calculates and categorizes expen
 **HTML · CSS · JavaScript · React.js**
 
 </div>
-
-A responsive portfolio website presenting my projects, technical skills, and development journey.
-
+<p align="center">
+A responsive portfolio website presenting my projects, technical skills, and development journey. <br/>
 - Designed a responsive layout for different screen sizes.
 - Organized project information and professional links.
 - Deployed the portfolio using Vercel.
-
+</p>
 <div align="center">
 
 <a href="https://github.com/Shanmugasrivyshnav/Shanmuga-sri-vyshnav-Portfolio">
@@ -171,9 +169,9 @@ A responsive portfolio website presenting my projects, technical skills, and dev
 **React.js · JavaScript**
 
 </div>
-
+<p align="center">
 A frontend interface designed to present cryptocurrency prices and related information.
-
+</p>
 <div align="center">
 
 <a href="https://github.com/Shanmugasrivyshnav/cryptocurrency-ui-React-">
@@ -191,13 +189,12 @@ A frontend interface designed to present cryptocurrency prices and related infor
 **React Native · React Navigation · AsyncStorage**
 
 </div>
-
-A mobile application designed to record income and expenses and help users monitor daily spending.
-
+<p align="center">
+A mobile application designed to record income and expenses and help users monitor daily spending. <br/>
 - Used React Navigation for bottom-tab navigation.
 - Used AsyncStorage for on-device data persistence.
-- Designed to organize transaction information in a mobile interface.
-
+- Designed to organize transaction information in a mobile interface. 
+</p>
 <div align="center">
 
 <a href="YOUR_DAILY_EXPENSE_TRACKER_REPOSITORY_URL">
